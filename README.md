@@ -1,4 +1,4 @@
-# Credit_Card_pycart
+
 # Credit Card Fraud Detection
 
 This dataset contains transaction data from credit cards used by European cardholders in 2013. The main objective is to distinguish fraudulent transactions from non-fraudulent transactions, providing an opportunity to test and compare various machine learning algorithms.
